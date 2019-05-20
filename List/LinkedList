@@ -1,3 +1,0 @@
-class LInkedLIst:
-    def __init__(self):
-        pass
